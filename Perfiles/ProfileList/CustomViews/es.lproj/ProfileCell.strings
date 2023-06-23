@@ -1,0 +1,36 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "2EG-q3-4pt"; */
+"2EG-q3-4pt.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "60b-yc-x2D"; */
+"60b-yc-x2D.text" = "Label";
+
+/* Class = "UILabel"; text = "Age:"; ObjectID = "Acm-s0-D0p"; */
+"Acm-s0-D0p.text" = "Edad:";
+
+/* Class = "UILabel"; text = "Nationality:"; ObjectID = "BFm-RD-SLa"; */
+"BFm-RD-SLa.text" = "Nacionalidad:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "E8V-Po-hQI"; */
+"E8V-Po-hQI.text" = "Label";
+
+/* Class = "UILabel"; text = "Address:"; ObjectID = "EXl-J1-Xmn"; */
+"EXl-J1-Xmn.text" = "Direccion:";
+
+/* Class = "UILabel"; text = "Phone:"; ObjectID = "Ehf-rd-1rW"; */
+"Ehf-rd-1rW.text" = "Telefono:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "KON-KB-7to"; */
+"KON-KB-7to.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "R7C-hf-cbU"; */
+"R7C-hf-cbU.text" = "Label";
+
+/* Class = "UILabel"; text = "Name:"; ObjectID = "a0J-va-nRX"; */
+"a0J-va-nRX.text" = "Nombre:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "nvB-UO-1le"; */
+"nvB-UO-1le.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "nzP-a7-DSp"; */
+"nzP-a7-DSp.text" = "Label";

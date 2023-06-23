@@ -1,0 +1,13 @@
+/* 
+  Errors.strings
+  Perfiles
+
+  Created by Juan Luis Hernández López on 23/06/23.
+  
+*/
+"GenericError" = "Error";
+"EmptyField" = "El campo no debe estar vacio";
+"InvalidEmail" = "El correo no es valido";
+"PasswordShort" = "La contraseña es muy corta";
+"UnknownError" = "Error desconocido";
+"LoginIncorrect" = "El correo o la contraseña son incorrectos";
